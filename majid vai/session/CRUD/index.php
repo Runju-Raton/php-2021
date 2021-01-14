@@ -1,0 +1,1 @@
+<h1>This is Crud index page</h1>
