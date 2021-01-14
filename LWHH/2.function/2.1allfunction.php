@@ -19,7 +19,7 @@ function fact($n){
 
    
 }
-// function
+// function fdsf habi jabi
 function serve($foodType="Coffee", $numberofItems="1 cup"){
     echo "$numberofItems"." of ".$foodType. " has\have been served";
 }
