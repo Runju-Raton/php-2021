@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.sidenav{
+    width: 15%;
+    background-color: #16a085;
+    overflow: hidden;
+    height: 100vh;
+}
+
+.sidenav h3{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 28px;
+}
+
+.sidenav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sidenav ul a{
+    color: #f39c12;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.sidenav ul li:hover{
+    background-color: #1abc9c;
+}
